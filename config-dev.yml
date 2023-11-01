@@ -1,2 +1,2 @@
 config:
-  info: {"age:15","version:1.0"}
+  info: "age:15,version:1.0"
